@@ -11,11 +11,11 @@
 
 ---
 [Sample AI/ML Projects](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AI_ML_logo.jpg?raw=true"/>
 
 ---
 [Sample Algorithms Projects](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/XKCD_comic.png?raw=true"/>
 
 
 ---
