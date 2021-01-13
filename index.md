@@ -3,11 +3,11 @@
 ---
 
 [Alexa Skill for Woodside Priory School](https://github.com/fibbonacciBear/PrioryAlexa)
-<img src="images/PrioryAlexaImage.png?raw=true"/>
+[<img src="images/PrioryAlexaImage.png?raw=true"/>](https://github.com/fibbonacciBear/PrioryAlexa)
 
 ---
 [Priory Prime](https://github.com/fibbonacciBear/ThePrioryPrime)
-<img src="images/ThePrioryPrime.png?raw=true"/>
+[<img src="images/ThePrioryPrime.png?raw=true"/>](https://github.com/fibbonacciBear/ThePrioryPrime)
 
 ---
 [Sample AI/ML Projects](http://example.com/)
@@ -20,4 +20,5 @@
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
