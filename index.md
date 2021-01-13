@@ -2,11 +2,11 @@
 
 ---
 
-[Alexa Skill for Woodside Priory School](/PrioryAlexa)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Alexa Skill for Woodside Priory School](https://github.com/fibbonacciBear/PrioryAlexa)
+<img src="images/PrioryAlexaImage.png?raw=true"/>
 
 ---
-[Priory Prime](/ThePrioryPrime)
+[Priory Prime](https://github.com/fibbonacciBear/ThePrioryPrime)
 <img src="images/ThePrioryPrime.png?raw=true"/>
 
 ---
