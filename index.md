@@ -1,20 +1,21 @@
-## Portfolio
+## Projects
 
 ---
 
-[Alexa Skill for Woodside Priory School](/sample_page)
+[Alexa Skill for Woodside Priory School](/PrioryAlexa)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Priory Prime](/pdf/sample_presentation.pdf)
+[Priory Prime](/ThePrioryPrime)
+<img src="images/ThePrioryPrime.png?raw=true"/>
+
+---
+[Sample AI/ML Projects](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Various AI/ML Projects](http://example.com/)
+[Sample Algorithms Projects](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 
 
 ---
