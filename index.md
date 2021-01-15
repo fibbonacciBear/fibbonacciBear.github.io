@@ -10,7 +10,7 @@
 [<img src="images/ThePrioryPrime.png?raw=true"/>](https://github.com/fibbonacciBear/ThePrioryPrime)
 
 ---
-[Sample AI/ML Projects](http://example.com/)
+[Sample AI/ML Projects](https://github.com/fibbonacciBear/Ai_ML_projects)
 <img src="images/AI_ML_logo.jpg?raw=true"/>
 
 ---
