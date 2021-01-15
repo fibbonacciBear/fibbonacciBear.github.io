@@ -11,7 +11,7 @@
 
 ---
 [Sample AI/ML Projects](https://github.com/fibbonacciBear/Ai_ML_projects)
-<img src="images/AI_ML_logo.jpg?raw=true"/>
+[<img src="images/AI_ML_logo.jpg?raw=true"/>](https://github.com/fibbonacciBear/Ai_ML_projects)
 
 ---
 [Sample Algorithms Projects](http://example.com/)
