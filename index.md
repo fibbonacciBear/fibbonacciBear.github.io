@@ -2,6 +2,11 @@
 
 ---
 
+[Playing With Stable Diffusion](https://github.com/fibbonacciBear/PrioryAlexa)
+[<img src="images/grid.png"/>](https://github.com/fibbonacciBear/PrioryAlexa)
+
+---
+
 [Alexa Skill for Woodside Priory School](https://github.com/fibbonacciBear/PrioryAlexa)
 [<img src="images/PrioryAlexaImage.png?raw=true"/>](https://github.com/fibbonacciBear/PrioryAlexa)
 
