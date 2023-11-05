@@ -2,8 +2,8 @@
 
 ---
 
-[Playing With Stable Diffusion](https://github.com/fibbonacciBear/PrioryAlexa)
-[<img src="images/grid.png"/>](https://github.com/fibbonacciBear/PrioryAlexa)
+[Playing With Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/6643)
+[<img src="images/grid.png"/>](https://github.com/AUTOMATIC1111/stable-diffusion-webui/discussions/6643)
 
 ---
 
